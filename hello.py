@@ -10,5 +10,6 @@ for fruit in fruits:
 
 print 'My First Commit attempt 2'
 print "I tried fam"
+print "Hi everyone"
 
 
