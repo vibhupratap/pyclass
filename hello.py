@@ -14,6 +14,7 @@ print "Hi everyyone"
 print 'my commit'
 print "I can't think of anything to say. Oh wait."
 print 'Is hot'
+print 'hi'
 
 
 
